@@ -9,5 +9,5 @@
 'use strict';
 
 exports.awesome = function() {
-  return 'awesome,jay poon! 2016.10.31';
+  return 'awesome,jay poon! 2016.10.31 v2';
 };
